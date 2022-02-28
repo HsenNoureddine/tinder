@@ -1,0 +1,33 @@
+.swipeButtons {
+  position: fixed;
+  bottom: 5vh;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.swipeButtons .MuiIconButton-root {
+  background-color: white;
+  width: 1vw;
+  height: 1vw;
+  box-shadow: 0px 10px 20px 0px black;
+}
+.Replay {
+  padding: 3vw !important;
+  color: darkgrey !important;
+}
+.Close {
+  padding: 3vw !important;
+  color: red !important;
+}
+.Star {
+  padding: 3vw !important;
+  color: yellow !important;
+}
+.Favorite {
+  padding: 3vw !important;
+  color: pink !important;
+}
+.Flash {
+  padding: 3vw !important;
+  color: darkgrey !important;
+}
